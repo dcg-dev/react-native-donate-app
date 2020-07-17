@@ -28,7 +28,7 @@
     "class-autobind": "^0.1.4",
     "dateformat": "^3.0.2",
     "format-json": "^1.0.3",
-    "lodash": "^4.17.2",
+    "lodash": "^4.17.19",
     "moment": "^2.19.1",
     "native-base": "^2.3.3",
     "or": "^0.2.0",
